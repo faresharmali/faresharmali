@@ -4,7 +4,11 @@
 
 This is my latest work 
 
-Skills: Javascript / React JS/ React-Native / NodeJs / HTML & CSS / 
+## Skills and Experience
+* 💻 HTML / Css / JAvascript
+* ⚛️ React
+* 📱 React Native
+* 🤖 Express js / Mongodb / Mysql
 
 - 🔭 I’m currently learning Rust & Python.
 - 🌱  I’m currently working on a food delivery app & vacations planning platform .
