@@ -6,8 +6,8 @@ This is my latest work
 
 Skills: Javascript / React JS/ React-Native / NodeJs / HTML & CSS / 
 
--🌱 I’m currently learning Rust & Python.
--🔭 I’m currently working on a food delivery app & vacations planning platform .
+- 🔭 I’m currently learning Rust & Python.
+- 🌱  I’m currently working on a food delivery app & vacations planning platform .
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faresharmali)  
 
