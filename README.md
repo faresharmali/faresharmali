@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Fares
 #### I am a full stack web & mobile apps developer
-![I am a full stack web & mobile apps developer](https://media-exp1.licdn.com/dms/image/C4E16AQF_kh1Gc0oIUQ/profile-displaybackgroundimage-shrink_350_1400/0/1658762566924?e=1665014400&v=beta&t=moiDzZTnp__MR7bRSI72DgxHnFFavAsKEmN6b10Hfys)
 
 
 ## Skills and Experience
