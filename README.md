@@ -4,7 +4,7 @@
 
 ## Skills and Experience
 * 💻 HTML / Css / JAvascript
-* ⚛️ React
+* ⚛️ React / Next.js / Angular
 * 📱 React Native
 * 🤖 Express js / Mongodb / Mysql
 
