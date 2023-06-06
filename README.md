@@ -13,7 +13,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faresharmali)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faresharmali&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresharmali)](https://github.com/anuraghazra/github-readme-stats)
 
