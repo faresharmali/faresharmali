@@ -9,7 +9,6 @@
 * 🤖 Express js / Mongodb / Mysql
 
 - 🔭 I’m currently learning Rust & Python.
-- 🌱  I’m currently working on a food delivery app & vacations planning platform .
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faresharmali)  
 
